@@ -1,4 +1,5 @@
-<h1 align="center">Hi there! 👋 It's Tomas.</h1>
+<h1 align="center">Hi there! 👋</h1> 
+<h1 align="center">It's Tomas.</h1>
 <p align="center">Full Stack Web Developer with a strong interest in process management and facilitation.</p>
 <div align="center">
 </div>

@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**TurboGLS/TurboGLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi! It's Fede.</h1>
+<p align="center">Full Stack Web Developer with a strong interest in process management and facilitation.</p>
+<div align="center">
+</div>
+<h2 align="center">🔧 I'm working with</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,html,css,javascript,typescript,nodejs,rider"/><br>
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,cs,powershell,java,mongodb,mysql,py"/><br>
+</div>
+<br>

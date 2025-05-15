@@ -1,5 +1,5 @@
 <h1 align="center">Hi there!👋 It's Tomas.</h1>
-<p align="center">Full Stack Web Developer with a strong interest in process management and facilitation.</p>
+<p align="center">Full Stack Web Developer with a strong passion for technology, software development, and artificial intelligence applications.</p>
 <div align="center">
 </div>
 <h2 align="center">🔧 I'm working with</h2>
